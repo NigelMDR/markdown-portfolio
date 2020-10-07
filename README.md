@@ -11,4 +11,7 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
-<a rel="nofollow" target="_blank" href="http://videezy.com">Free Stock Videos by Videezy.com</a>
+
+
+________________
+##<a rel="nofollow" target="_blank" href="http://videezy.com">Free Stock Videos by Videezy.com</a>
